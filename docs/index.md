@@ -74,7 +74,23 @@
     *   [4.4 红色识别](第四章颜色识别.md#disizhanghssb)
          *  [关键方法介绍](第四章颜色识别.md#disizhangffjs2)
     *   [4.5 肤色识别](第四章颜色识别.md#disizhangfssb)
-
+*   [第五章形状识别](第五章形状识别.md)
+    *   [5.1 简介](第五章形状识别.md#diwuzhangjj)
+    *   [5.2 知识点](第五章形状识别.md#diwuzhangzsd)
+         *  [5.2.1 图像平滑处理](第五章形状识别.md#diwuzhangph)
+         *  [5.2.2 边缘检测](第五章形状识别.md#diwuzhangbyjc)
+         *  [5.2.3 霍夫变换](第五章形状识别.md#diwuzhanghfbh)
+    *   [5.3 平滑处理](第五章形状识别.md#diwuzhangphcl)
+         *  [关键方法介绍](第五章形状识别.md#diwuzhanggjff)
+    *   [5.4 Canny边缘检测](第五章形状识别.md#diwuzhangcanny)
+         *  [关键方法介绍](第五章形状识别.md#diwuzhanggjff2)
+    *   [5.5 霍夫变换](第五章形状识别.md#diwuzhanghf)
+         *  [关键方法介绍](第五章形状识别.md#diwuzhanggjff3)
+    *   [5.6 霍夫变换 直线检测优化](第五章形状识别.md#diwuzhangyh)
+         *  [关键方法介绍](第五章形状识别.md#diwuzhanggjff4)
+    *   [ 5.7 霍夫变换 圆检测](第五章形状识别.md#diwuzhangyjc)
+         *  [关键方法介绍](第五章形状识别.md#diwuzhanggjff5)
+    *   [ 5.8 挑战任务](第五章形状识别.md#diwuzhangrw)
 **说明:** 本文自 [YangSheng], 托管于[Github][github].
 
 [github]: https://github.com/yangzl2014/OpenCV-Tutorial/
